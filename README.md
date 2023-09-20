@@ -1,1 +1,1 @@
-My first readme
+The SE Programme is getting interesting.
